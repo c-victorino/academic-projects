@@ -1,0 +1,7 @@
+# Academic Projects
+Welcome to my Academic Projects repository. This collection features a selection of school projects that I completed during my academic career. This repository is not a comprehensive list of all my projects, but rather showcases a few notable examples of my work.
+
+## Project Overview
+**`Assembly Line Simulation`** - a C++ program that simulates an assembly line system for processing customer orders. It incorporates modules such as Utilities, Station, CustomerOrder, and LineManager. The program utilizes parsing techniques, modern C++ practices, and object-oriented programming principles while implementing error handling and leveraging data structures for efficient code execution.
+
+**`CPU Like Subsystem`** - a C++ project that simulates a central processing unit environment for job processing. It includes modules such as Job, Processor, and CentralUnit. The project demonstrates the implementation of dynamic memory allocation, function objects, and exception handling. It applies modern C++ practices, object-oriented programming principles, and utilizes data structures for efficient code execution. Additionally, the project leverages the observer pattern to notify the central unit of job completion or errors, showcasing its advanced functionality. The incorporation of features like templated classes further enhances the project's flexibility and code reusability.
